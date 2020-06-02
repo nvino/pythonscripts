@@ -1,0 +1,5 @@
+NUMBER=1000
+SIZEKB=8
+NUMTHREAD=10
+PATH=c:\temp\t1
+DEST=c:\temp\t2
