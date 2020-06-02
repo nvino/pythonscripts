@@ -1,6 +1,6 @@
 # pythonscripts
 This is a script to calculate file creation time, copy time and move time.
-Use a options to file to specify :
+Use an options file to specify :
 NUMBER=1000 - number of files
 SIZEKB=8 - size of each file
 NUMTHREAD=10 - num of threads
